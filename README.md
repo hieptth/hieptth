@@ -45,6 +45,7 @@ I'm a newbie in the web development industry learning to build my version of dig
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=hieptth&include_all_commits=trues&number_format=short&show_icons=true&rank_icon=github&theme=transparent#gh-light-mode-only" hspace="10">
+    <img src="https://github-readme-stats.vercel.app/api?username=hieptth&include_all_commits=trues&number_format=short&show_icons=true&rank_icon=github&theme=transparent#gh-light-mode-only" hspace="10">
 </a>
 
 <!-- Languages Card -->
@@ -52,6 +53,7 @@ I'm a newbie in the web development industry learning to build my version of dig
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieptth&size_weight=0.1&count_weight=.9&langs_count=8&layout=compact&theme=radical#gh-dark-mode-only">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieptth&size_weight=0.1&count_weight=.9&langs_count=8&layout=compact&theme=transparent#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieptth&size_weight=0.1&count_weight=.9&langs_count=8&layout=compact&theme=transparent#gh-light-mode-only">
 </a>
 
