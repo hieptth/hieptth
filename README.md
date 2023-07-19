@@ -2,7 +2,7 @@
 
 [![MasterHead](banner.png)](https://github.com/hieptth)
 
-**`Web Wizard (Web Developer/Gamer)`**
+**`Web Wizard (Web Developer)`**
 
 <p style="text-align: justify;text-justify: inter-word;">
 I'm a newbie in the web development industry learning to build my version of digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
