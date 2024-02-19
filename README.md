@@ -51,11 +51,11 @@ I'm a newbie in the web development industry learning to build my version of dig
 
 <!-- Languages Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://hieptth-github-readme-stats.vercel.app/api/top-langs/?username=hieptth&size_weight=0.1&count_weight=.9&langs_count=8&layout=compact&theme=radical#gh-dark-mode-only">
+  <img src="https://readme-stats-hieptth.vercel.app/api/top-langs/?username=hieptth&size_weight=0.1&count_weight=.9&langs_count=8&layout=compact&theme=radical#gh-dark-mode-only">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://hieptth-github-readme-stats.vercel.app/api/top-langs/?username=hieptth&size_weight=0.1&count_weight=.9&langs_count=8&layout=compact&theme=transparent#gh-light-mode-only">
-  <img src="https://hieptth-github-readme-stats.vercel.app/api/top-langs/?username=hieptth&size_weight=0.1&count_weight=.9&langs_count=8&layout=compact&theme=transparent#gh-light-mode-only">
+  <img src="https://readme-stats-hieptth.vercel.app/api/top-langs/?username=hieptth&size_weight=0.1&count_weight=.9&langs_count=8&layout=compact&theme=transparent#gh-light-mode-only">
+  <img src="https://readme-stats-hieptth.vercel.app/api/top-langs/?username=hieptth&size_weight=0.1&count_weight=.9&langs_count=8&layout=compact&theme=transparent#gh-light-mode-only">
 </a>
 
 </div>
