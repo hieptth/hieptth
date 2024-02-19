@@ -42,11 +42,11 @@ I'm a newbie in the web development industry learning to build my version of dig
 
 <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://hieptth-github-readme-stats.vercel.app/api?username=hieptth&include_all_commits=true&number_format=short&show_icons=true&rank_icon=github&theme=radical#gh-dark-mode-only" hspace="10">
+    <img src="https://readme-stats-hieptth.vercel.app/api?username=hieptth&include_all_commits=true&number_format=short&show_icons=true&rank_icon=github&theme=radical#gh-dark-mode-only" hspace="10">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://hieptth-github-readme-stats.vercel.app/api?username=hieptth&include_all_commits=trues&number_format=short&show_icons=true&rank_icon=github&theme=transparent#gh-light-mode-only" hspace="10">
-    <img src="https://hieptth-github-readme-stats.vercel.app/api?username=hieptth&include_all_commits=trues&number_format=short&show_icons=true&rank_icon=github&theme=transparent#gh-light-mode-only" hspace="10">
+    <img src="https://readme-stats-hieptth.vercel.app/api?username=hieptth&include_all_commits=trues&number_format=short&show_icons=true&rank_icon=github&theme=transparent#gh-light-mode-only" hspace="10">
+    <img src="https://readme-stats-hieptth.vercel.app/api?username=hieptth&include_all_commits=trues&number_format=short&show_icons=true&rank_icon=github&theme=transparent#gh-light-mode-only" hspace="10">
 </a>
 
 <!-- Languages Card -->
