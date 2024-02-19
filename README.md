@@ -1,8 +1,8 @@
 # 🤪Hiep Truong🥴
 
-[![MasterHead](banner.png)](https://github.com/hieptth)
+[![MasterHead](banner.png?)](https://github.com/hieptth)
 
-**`Web Wizard (Web Developer)`**
+**`Software Engineer` `Co-designer`**
 
 <p style="text-align: justify;text-justify: inter-word;">
 I'm a newbie in the web development industry learning to build my version of digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
@@ -28,6 +28,7 @@ I'm a newbie in the web development industry learning to build my version of dig
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
